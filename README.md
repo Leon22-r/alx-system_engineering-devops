@@ -1,1 +1,2 @@
-Description of this repo
+#!bin/bash 
+pwd
