@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 754 home
+chmod u+x,g+x,o+x home
